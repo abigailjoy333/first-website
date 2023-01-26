@@ -1,0 +1,70 @@
+/* sorry if my css page is a little chaotic */
+
+html {
+  background-image: url("images/swirly.png");
+  background-size: 2000px;
+  font-family: georgia;
+}
+
+header {
+  font-size: 27px
+}
+
+.pink-bgv {
+  background-color: #FFD6FF;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.blue-bgv {
+  background-color: #bbd0ff;
+  text-align: center;
+  width: 200px;
+  margin: 0 auto;
+}
+
+.center {
+  text-align: center;
+}
+
+.image-padding {
+  padding: 30px;
+}
+
+.white-text {
+  color: white;
+}
+
+p ul {
+  width: 500px;
+  margin: 0 auto;
+  padding: 30px;
+}
+
+.list {
+  list-style-position: inside;
+  margin-right: 5%; /* this wsa my fix to the list being slightly off-center to the right */
+}
+
+hr {
+  width: 500px;
+  border-color: #231942;
+  border:solid;
+  margin: 30px;
+}
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: #bbd0ff;
+}
+
+a:hover {
+  color: #FFD6FF;
+}
+
+a:active {
+  color: white;
+}
